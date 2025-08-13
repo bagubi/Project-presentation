@@ -12,5 +12,5 @@
 ![Image](https://github.com/user-attachments/assets/eb4654bd-bacd-4b23-bf8e-56ffc574894d)
 
 ## 天气预报
-![Image](/天气预报小程序\miniprogram\images\微信图片_20250814060445_40.jpg)
-![Image](/天气预报小程序\miniprogram\images\微信图片_20250814060455_41.jpg)
+![Image](天气预报小程序/miniprogram/images/微信图片_20250814060445_40.jpg)
+![Image](天气预报小程序/miniprogram/images/微信图片_20250814060455_41.jpg)
