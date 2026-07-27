@@ -37,10 +37,10 @@
 
 一款简洁的天气预报小程序，支持定位和城市搜索。
 
-![首页](https://github.com/user-attachments/assets/微信图片_20250814060445_40.jpg)
+![Image](天气预报小程序/miniprogram/images/微信图片_20250814060445_40.jpg)
 *首页：实时天气展示*
 
-![搜索页](https://github.com/user-attachments/assets/微信图片_20250814060455_41.jpg)
+![Image](天气预报小程序/miniprogram/images/微信图片_20250814060455_41.jpg)
 *搜索页：城市切换*
 
 ### 核心功能
